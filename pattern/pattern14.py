@@ -1,4 +1,4 @@
-rows = int(input("Kitni rows chahiye hollow pyramid me? "))
+rows = int(input("How many rows do you want in the hollow pyramid? "))
 
 i = 1
 while i <= rows:
